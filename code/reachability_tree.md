@@ -42,7 +42,7 @@ void dfs(int x, int p, auto& dsu) {
     range[x][0] = INT_MAX;
     range[x][1] = INT_MIN;
     for (int i=0; i<2; ++i) {
-        int v = dsu.g[x][0];
+        int v = dsu.g[x][i];
         dfs(v, x, dsu);
         range[x][0] = min(range[x][0], range[v][0]);
         range[x][1] = max(range[x][1], range[v][1]);
