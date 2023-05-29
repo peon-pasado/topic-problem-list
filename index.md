@@ -4,7 +4,9 @@
 - [geometry](/)
 
 
+## problems
 
+- [geometry](/problems/geometry.md)
 
 ### Implementation
 
