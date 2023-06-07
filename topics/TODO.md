@@ -1452,40 +1452,7 @@ https://codeforces.com/blog/entry/47821
 https://codeforces.com/contest/2/problem/C
 https://www.codechef.com/AUG18A/problems/LONCYC
 
-# graph
- 
-## pdf
- 
-- [compalg](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/Chap%205.PDF)
-- [block graph is a tree](https://math.stackexchange.com/questions/2536581/how-to-prove-the-block-graph-of-any-connected-graph-is-a-tree)
-- [maximum number of vertex in block cut tree](https://math.stackexchange.com/questions/1245642/maximum-number-of-vertices-of-a-block-cutpoint-graph)
-- [a caractherization of block cut tree](https://ac.els-cdn.com/S0166218X09003771/1-s2.0-S0166218X09003771-main.pdf?_tid=7d80b381-6a4c-4235-b1f3-5fa9580a95c6&acdnat=1533071762_b4fa6a2e832c29250ebbce6b93041645)
-- [total block edge cut graph](https://www.researchgate.net/publication/270493519_Total_Block_Edge_Cut_Vertex_Graph)
-- [Emaxx] (https://cp-algorithms.com/graph/bridge-searching.html)
- 
-## videos
- 
-- [Sarada Herke](https://www.youtube.com/watch?v=iGsxKUzW3cs)
- 
-## problems
- 
-- [codechef SADPAIRS](https://www.codechef.com/problems/SADPAIRS)
 
-https://en.wikipedia.org/wiki/Biconnected_component
-
-https://github.com/prakhar1989/awesome-courses#algorithms
-https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-queries-on-the-graph
-https://tanujkhattar.wordpress.com/2016/01/10/the-bridge-tree-of-a-graph/
-https://codeforces.com/blog/entry/45223
-https://blog.codechef.com/2016/07/17/snackdown-training-camp-day-3/
-https://en.wikipedia.org/wiki/Transitive_reduction#Incremental_data_structures
-https://cs.stackexchange.com/questions/60395/find-all-cycles-through-a-given-vertex
-https://cs.stackexchange.com/questions/96424/incremental-strongly-connected-components?noredirect=1&lq=1
-https://www.cis.upenn.edu/~sanjeev/papers/soda14_disjoint_set_union.pdf
-https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.9355&rep=rep1&type=pdf
-http://www.danielhlarkin.me/
-https://codeforces.com/blog/entry/5733
-https://en.wikipedia.org/wiki/Disjoint-set_data_structure
 Lagrange Multiplier
  
 http://www.math.harvard.edu/archive/21a_spring_09/PDF/11-08-Lagrange-Multipliers.pdf
@@ -1496,6 +1463,19 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-ma
 https://math.stackexchange.com/questions/815566/how-to-interpret-lagrangian-function-specifically-not-lagrangian-multiplier
  
  
+ https://github.com/prakhar1989/awesome-courses#algorithms
+https://codeforces.com/blog/entry/45223
+https://blog.codechef.com/2016/07/17/snackdown-training-camp-day-3/
+https://en.wikipedia.org/wiki/Transitive_reduction#Incremental_data_structures
+https://cs.stackexchange.com/questions/60395/find-all-cycles-through-a-given-vertex
+https://cs.stackexchange.com/questions/96424/incremental-strongly-connected-components?noredirect=1&lq=1
+https://www.cis.upenn.edu/~sanjeev/papers/soda14_disjoint_set_union.pdf
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.9355&rep=rep1&type=pdf
+http://www.danielhlarkin.me/
+https://codeforces.com/blog/entry/5733
+https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+
+
 # problems:
 https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3838
 http://wcipeg.com/problem/noi12p2

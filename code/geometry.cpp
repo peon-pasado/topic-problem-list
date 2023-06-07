@@ -60,7 +60,7 @@ struct Line {
     }
 
     //friend bool test(const Line& H, const Line& I, const Line& J) {
-    //    return out(H, inter(I, J));
+    //    return out(H, inter(I, J))    ;
     //}
 
     friend bool test(const Line& H, const Line& I, const Line& J) { //infinite precision (needs integer type)

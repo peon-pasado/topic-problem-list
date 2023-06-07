@@ -36,7 +36,7 @@
 - Aizu - CGL_4_B    | rotating calipers
 - UVA - 10416       | two pointers (or manacher)
 - UVA - 11243       | rotating calipers (or bs + convex)
-- UVA - 11756       | rotating calipers + duality
+- UVA - 11756       | halfplane intersection
 - Aizu - CGL_5_A    | min dist
 - Gym - 100886H     | convexity
 - SPOJ - DPMAX      | convexity
