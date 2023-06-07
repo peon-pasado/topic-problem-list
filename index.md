@@ -1,7 +1,7 @@
 ## topics
 
 - [dsu techniques](/topics/dsu_techniques.md)
-- [geometry]()
+- [geometry]
 - [graphs](/problems/graph.md)
 
 ## problems
