@@ -89,27 +89,7 @@ problem: rucode 6.5 B build the sequence
 	20	黑暗爆炸-2154	Crash的数字表格	180					
 									
 									
-	Topic 25 Fast Founier Transform · Number Theoretic Transform · FFT · NTT								
-	Origin	Title	Solved	Source	Note				
-	1	HDU-4609	3-idiots	2175	2013 Multi-University Training Contest 1				
-	2	HDU-1402	A * B Problem Plus	4427					
-	3	URAL-1996	Cipher Message 3	338					
-	4	CodeChef-PRIMEDST	Prime Distance On Tree	1265	chen_adm				
-	5	CodeChef-COUNTARI	Arithmetic Progressions	718	imran_adm				
-	6	HDU-5322	Hope	387	2015 Multi-University Training Contest 3				
-	7	HDU-5323	Solve this interesting problem	777	2015 Multi-University Training Contest 3				
-	8	Gym-100341C	AVL Trees	76	2007-2008 Summer Petrozavodsk Camp, Andrew Stankevich Contest 25 (ASC 25)				
-	9	HDU-4656	Evaluation	187	2013 Multi-University Training Contest 6				
-	10	HDU-5307	He is Flying	405	2015 Multi-University Training Contest 2				
-	11	黑暗爆炸-1213	高精度开根	54	HNOI2004				
-	12	CodeForces-553E	Kyoya and Train	507	Codeforces Round 309 (Div. 1)				
-	13	CodeForces-754E	Dasha and cyclic table	457	Codeforces Round 390 (Div. 2)				
-	14	CodeForces-914G	Sum the Fibonacci	846	Codecraft-18 and Codeforces Round 458 (Div. 1 + Div. 2, combined)				
-	15	CodeForces-954I	Yet Another String Matching Problem	919	Educational Codeforces Round 40 (Rated for Div. 2)				
-	16	CodeForces-958F3	Lightsabers (hard)	574	Helvetic Coding Contest 2018 online mirror (teams allowed, unrated)				
-	17	CodeForces-986D	Perfect Encoding	309	Codeforces Round 485 (Div. 1)				
-	18	CodeForces-993E	Nikita and Order Statistics	1297	Codeforces Round 488 by NEAR (Div. 1)				
-	19	Kattis-kinversions	K-Inversions	561					
+				
 									
 Topic 33 Partition trees									
 									
@@ -278,10 +258,12 @@ http://codeforces.com/blog/entry/55271
 https://codeforces.com/blog/entry/20751
 https://codeforces.com/blog/entry/48465
 http://codeforces.com/blog/entry/14978
+https://codeforces.com/blog/entry/71899
 https://tanujkhattar.wordpress.com/
 https://codeforces.com/blog/entry/47758
 https://codeforces.com/blog/entry/59452
 https://codeforces.com/blog/entry/19862
+https://blog.mitrichev.ch/2015/04/this-week-in-competitive-programming.html
 https://codeforces.com/blog/entry/49657
 https://discuss.codechef.com/questions/83356/polyeval-editorial
 https://cs.stackexchange.com/questions/60239/multi-point-evaluations-of-a-polynomial-mod-p

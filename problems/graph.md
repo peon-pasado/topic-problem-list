@@ -21,43 +21,45 @@
  
 ## problems								
 									
-				
-	1	POJ-3352	Road Construction	5292	CCC 2007				
-	2	POJ-2186	Popular Cows	11578	USACO 2003 Fall				
-	3	POJ-2553	The Bottom of a Graph	3757	Ulm Local 2003				
-	4	POJ-2942	Knights of the Round Table	2872	Central Europe 2005													
-					
-	1	POJ-1236	Network of Schools	8326	IOI 1996										
-	4	POJ-3694	Network	2986	2008 Asia Hefei Regional Contest Online by USTC			
-	5	POJ-3177	Redundant Paths	5811	USACO 2006 January Gold			
-	6	HDU-4612	Warm up	1559	2013 Multi-University Training Contest 2			
-	7	HDU-4635	Strongly connected	1720	2013 Multi-University Training Contest 4			
-	8	HDU-4685	Prince and Princess	531	2013 Multi-University Training Contest 8			
-	9	HDU-4738	Caocao's Bridges	2575	2013 ACM/ICPC Asia Regional Hangzhou Online		
-
-
 - HDU-6431 | very hard
+- HDU-4612 			
+- HDU-4635 			
+- HDU-4685			
+- HDU-4738
 
+- URAL-1198
 
 - codechef-SADPAIRS
 - codechef-PRCNSR2
 - codechef-SROADS
+- codechef-CHEFLAND
 
 - hackerrank-sherlock-and-queries-on-the-graph
 - hackerrank-special-pairs
 
+- CSES-1705
+- CSES-2177
+- CSES-2076
+- CSES-2077
 
 - UVA-796
 - UVA-610
 - UVA-12363
 - UVA-315
 - UVA-10199
+- UVA-11838
+- UVA-11709
+- UVA-1229
 
 - gym-101612G
+- gym-100676H
+- gym-100712H
+- gym-100200B
 
 - codeforces-555E
 - codeforces-521E
 - codeforces-97E
+- codeforces-639F
 - codeforces-487E
 - codeforces-1000E
 - codeforces-652E
@@ -77,19 +79,51 @@
 - codeforces-858F
 - codeforces-732F
 - codeforces-193A
+= codeforces-427C
+- codeforces-615B
+- codeforces-1498E
+- codeforces-160D
 
 - spoj-GRAFFDEF
 - spoj-EC_P
 - spoj-SUBMERGE
+- spoj-TFRIENDS
+- spoj-CAPCITY
+- spoj-GOODA
 
+- poj-1236
 - poj-1523
 - poj-2117
+- poj-3177
+- poj-3352		
+- poj-2186			
+- poj-2553			
+- poj-2942												
+- poj-3694
+
 
 - dmoj-coi06p2
 
 - lougu-P3388
 
+- lightoj-1308
+- lightoj-1291
+- lightoj-1300
+- lightoj-1063
+
 - oj.uz-CEOI17_oneway
+
+- kattis - britishmenu
 
 - uoj-207
 
+- https://szkopul.edu.pl/problemset/problem/dq_rM2gOy4-8jYIsE7xgo-9l/site/?key=statement
+
+https://codeforces.com/blog/entry/103064    
+https://github.com/zby0327
+https://math.berkeley.edu/~stankova/MathCircle/Multiplicative.pdf
+https://codeforces.com/blog/entry/57319?locale=en
+https://uoj.ac/problem/164 https://loj.ac/s/2056868
+https://codeforces.com/blog/entry/82094?locale=en
+
+https://snuke.hatenablog.com/entry/2019/01/15/211812

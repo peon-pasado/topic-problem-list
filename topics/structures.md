@@ -212,5 +212,5 @@ cht
 https://codeforces.com/blog/entry/60514#comment-444242
 
 									
-									
+								https://codeforces.com/blog/entry/100826	
 									
