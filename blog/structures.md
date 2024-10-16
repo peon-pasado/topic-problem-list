@@ -207,6 +207,15 @@ https://ideone.com/WAe2wk
 dynamic connectivity
 https://codeforces.com/blog/entry/15296
 
+#splay tree
+https://codeforces.com/blog/entry/108457
+
+#LCT
+https://codeforces.com/blog/entry/103726
+https://codeforces.com/blog/entry/131822
+
+
+
 
 cht
 https://codeforces.com/blog/entry/60514#comment-444242
@@ -214,3 +223,8 @@ https://codeforces.com/blog/entry/60514#comment-444242
 									
 								https://codeforces.com/blog/entry/100826	
 									
+
+skip list
+
+- https://codeforces.com/blog/entry/13501
+- 

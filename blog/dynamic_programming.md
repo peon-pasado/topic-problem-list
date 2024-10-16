@@ -26,8 +26,26 @@ DP Optimization
 			https://codeforces.com/blog/entry/82924 
 
 			https://maratona.ic.unicamp.br/MaratonaVerao2017/documents/dp.pdf
+			https://codeforces.com/blog/entry/47764
+
+
+			https://codeforces.com/blog/entry/67664
+			https://codeforces.com/blog/entry/50036
+
+			https://sam571128.codes/2021/10/23/Slope-Trick/
+			https://koosaga.com/243
+			https://codeforces.com/blog/entry/123211
+			https://codeforces.com/blog/entry/47821
+			https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder/2021/0904_abc217
+			https://koosaga.com/243
+
+
 
 	Problems		
+	https://atcoder.jp/contests/arc123/editorial
+	https://atcoder.jp/contests/abc217/tasks/abc217_h
+	https://www.cnblogs.com/zltzlt-blog/p/17566846.html
+	https://atcoder.jp/contests/abc228/editorial/2960
 			https://vjudge.net/contest/225800
 			https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
 
@@ -124,4 +142,29 @@ Feature 32 Plug DP
 	9	ZOJ-3256	Tour in the Castle	422				
 	10	ZOJ-3213	Beautiful Meadow	825				
 	11	HDU-4285	circuits	244	2012 ACM/ICPC Asia Regional Tianjin Online			
-								
+
+
+
+bitmask pro 
+	
+- flood bitmask
+
+	1. https://atcoder.jp/contests/arc160/tasks/arc160_f
+
+	problema: tienes todas las permutaciones de los elementos 1, 2, ..., n. En cada paso puedes "ordenar" dos elementos (un par (xi, yi) y ordenas los elementos en esas dos posiciones). Debes responder cuantas permutaciones se van ordenando en cada paso.
+
+	principal idea: 
+
+	la idea es ir desvelando cada permutacion, de tal forma que al inicio no conozco como estan puestos los elementos, y en cada paso voy desvelando la ubicacion del elemento menor no desvelado, puedo darme cuenta que toda la permutacion se puede ver como ir prendiendo un bit en cada paso, o sea, un camino en un array n-dimensional 2^n. 
+
+	lo otro importante que observar, es que al hacer esa simplificacion, solo me interesa como interactuan los 0s y 1s, y ellos interactuan igual, el que tiene 1 va primero y luego el de 0. Asi, en la k-esima operacion, lo que debo es considerar los k primeros cambios en cada mascara de bits y contar cuantos caminos "ordenados" hay entre el 0...000 y el 11.1111.
+
+
+	secondary idea:
+
+	lo importante es ver que si un par es aplicable y se puede aplicar en al menos una permutacion, entonces solo se pueden aplicar n^2/2 swaps, o sea, puede ocurrir dos cosas, que ese swap no cree mas swaps asi que reduce en 1, o que cree mas swaps en alguna permutacion, entonces por cada par que cree, solo se da si otro swap se cancela.
+
+	2. https://www.luogu.com.cn/problem/P10813?contestId=184989
+
+	idea: similar para el caso anterior solo que en cada paso agrego un subconjunto de 1s, aplico solo una vez todas las operaciones, y al momento de juntar, aplico dp sos, de tal forma que en cada vez que aplico puedo verlo como tener i elementos distintos.
+
